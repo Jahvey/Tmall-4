@@ -1,0 +1,13 @@
+body,h1,h2,h3,h4{ padding: 0;}
+ul,p,h3,h4,form,h2{ list-style: none; margin: 0;padding: 0;}
+a{ text-decoration: none;}
+
+input,textarea{outline: none;}
+body{ padding: 0; margin: 0;}
+ol{ list-style: none; padding: 0; margin: 0;} 
+/*public*/
+.fl{ float: left;}
+.fr{ float: right;}
+.clear{ zoom: 1;}
+.clear:after{ content: ' ';display: block;clear: both;}
+strong{ font-weight: normal;  }
